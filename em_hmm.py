@@ -89,7 +89,7 @@ def main():
 	
 	#transition probability matrix
 	A = np.ones((K,K))
-	A = A / np.sum(1).T
+	A = A / np.sum(A, 1).T
 
 	#Initialize mean and covariance
 	mu = np.random.rand(len(train),K)
