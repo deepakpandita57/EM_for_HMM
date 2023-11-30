@@ -51,4 +51,5 @@ Log-Likelihoods on dev: [-342.80544311816976, -342.06206117785291, -341.37183624
 
 References
 =============================================================================================================
-This was done as a homework problem in the Machine Learning class (CSC 446, Spring 2018) by Prof. Daniel Gildea (https://www.cs.rochester.edu/~gildea/) at the University of Rochester, New York.
+This was done as a homework problem in the Machine Learning class (CSC 446, Spring 2018) by [Prof. Daniel Gildea](https://www.cs.rochester.edu/~gildea/) at the University of Rochester, New York. <br />
+Have questions? Shoot me an [email](https://sites.google.com/view/deepakpandita/contact).
